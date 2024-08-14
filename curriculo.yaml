@@ -70,27 +70,27 @@ contacts:
         - whatsapp
         - telegram
   social:
-    - linkedin: 
+    - name: "Linkedin" 
       value: /in/gabrielmendonca
       link: https://www.linkedin.com/in/gabrielmendonca
       icon: 🔗
     
-    - gmail: 
+    - name: "Gmail" 
       value: gabrielmendoncanf@gmail.com
       link: mailto:gabrielmendoncanf@gmail.com
       icon: ✉
     
-    - gitub: 
+    - name: "Gitub" 
       value: /brunoom1
       link: https://github.com/brunoom1
       icon: 👨‍💻
     
-    - site: 
+    - name: "Site" 
       value: https://brunoom1.github.io
       link: https://brunoom1.github.io
       icon: 
     
-    - leetcode: 
+    - name: "Leetcode" 
       value: /u/gabrielmendonca
       link: https://leetcode.com/u/gabrielmendonca
       icon: 
