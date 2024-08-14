@@ -69,20 +69,30 @@ contacts:
       social:
         - whatsapp
         - telegram
-  linkedin: 
-    value: in/gabrielmendonca
-    icon: 🔗
-  gmail: 
-    value: gabrielmendoncanf@gmail.com
-    icon: ✉
-  gitub: 
-    value: /brunoom1
-    icon: 👨‍💻
-  site: 
-    value: https://brunoom1.github.io
-    icon: 
-  leetcode: 
-    value: https://leetcode.com/u/gabrielmendonca
-    icon: 
+  social:
+    - linkedin: 
+      value: /in/gabrielmendonca
+      link: https://www.linkedin.com/in/gabrielmendonca
+      icon: 🔗
+    
+    - gmail: 
+      value: gabrielmendoncanf@gmail.com
+      link: mailto:gabrielmendoncanf@gmail.com
+      icon: ✉
+    
+    - gitub: 
+      value: /brunoom1
+      link: https://github.com/brunoom1
+      icon: 👨‍💻
+    
+    - site: 
+      value: https://brunoom1.github.io
+      link: https://brunoom1.github.io
+      icon: 
+    
+    - leetcode: 
+      value: /u/gabrielmendonca
+      link: https://leetcode.com/u/gabrielmendonca
+      icon: 
 
 
