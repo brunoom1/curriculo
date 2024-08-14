@@ -1,0 +1,88 @@
+version: 1.0
+
+person: 
+  name: Gabriel Bruno de Olveira Mendonça
+  aboutResume: Brasileiro casadao, 36 anos
+  birthDate: 17/06/1988
+
+work: 
+  description: Desenvolvedor FullStack - NodeJS/ReactJS
+  profissionalResume: > 
+    Desenvolvedor Full Stack experiente com 
+    mais de 15 anos, especializado em Node.js, React.js e PHP. 
+    Sólida experiência em projetos complexos, desde o desenvolvimento 
+    de plataformas de ensino a distância até sistemas de gestão 
+    empresarial. Proficiência em metodologias ágeis e paixão por 
+    criar soluções inovadoras.
+
+  profissionalExperience:
+    - company: OSBR
+      yearInit: 2024
+      yearFinish: 2024
+      state: SP
+      positionHeld: Desenvolvedor Fullstack
+      experienceTopics: 
+        - Desenvolvi e implementei novas funcionalidades em um marketplace de energias renováveis, utilizando NodeJs, ReactJs, NextJsi.
+        - Colaborei na arquitetura e desenvolvimento de API’s RESTful com Strapi.
+        - Contribui para a otimização do desempenho da aplicação, reduzindo o tempo de carregamento da página e melhorando a legibilidade do código.
+        - Trabalhei em POC’s para implementação do AUTH0 e Centry na aplicação. 
+        - Auxiliei e gerenciei a adoção de testes no projeto utilizando JEST
+        - Realizei manutenções no ambiente de CI/CD para configurações de build com variáveis privadas no AZURE
+
+    - company: Samcorp Solutions
+      yearInit: 2023
+      yearFinish: 2023
+      state: SC
+      positionHeld: Desenvolvedor Fullstack
+      experienceTopics: 
+        - Trabalhei no desenvolvimento e interfaces utilizando ReactJS + Zustand. 
+        - Implementei funcionalidades na API utilizando PHP 8 com framework próprio da empresa.
+        - Criei micro serviço em GO Lang para atualização de tokens no OKTA
+        - 'Participei de uma maratona para desenvolver um projeto onde atuei como DEV e também em toda a 
+          concepção de um marketplace para venda e exposição dos produtos da Cargill. 
+          Participaram times de toda américa latina. Conseguimos o segundo lugar com o projeto.'
+
+    - company: Agência MOP
+      yearInit: 2020
+      yearFinish: 2023
+      state: SP
+      positionHeld: Desenvolvedor Fullstack / TechLead
+      experienceTopics: 
+        - 'Atualização dos sites antes desenvolvidos em wordpress + elemento para nextjs com wordpress rest e NextJs. 
+          O next trouxe para os sites diversas otimizações no frontend além de cache para os recursos de API que pouco eram atualizados. 
+          Os sites tiveram uma melhora de performance de 90% com a mudança de tecnologia.' 
+        - Utilização de GIT em 100% dos projetos, antes os projetos não eram versionados.
+        - Criei pipelines com google actions para deploys de todos os projetos de sites, antes, os sites eram atualizados com FTP.
+        - Desenvolvi toda uma aplicação centralizada de metrificação de leads e campanhas relacionadas à venda imobiliária.  
+        - 'Realizei a integração  com facebook, whatsapp, google e CRM’s para centralização das campanhas e metricas de leads utilizando 
+          RabbitMQ (hospedado), docker para conteinerização, nodejs para criação dos serviços de busca de dados nas plataformas do google, 
+          facebook e CRM’s.'
+        - Utilizei banco de dados relacional para gerenciamento dos dados. 
+        - Construí API restfull para comunicação dos serviços e frontend. Cada serviço tinha seu próprio usuário para acesso com permissões de serviços
+        - Construí ambiente de deploy e testes baseado em pipelines com jenkins
+        - Todo o ambiente de produção estava baseado em servidor baremetal.
+
+contacts:
+  cellphone:
+    - number: (11) 9.5152-6077
+      icon: 📱
+      social:
+        - whatsapp
+        - telegram
+  linkedin: 
+    value: in/gabrielmendonca
+    icon: 🔗
+  gmail: 
+    value: gabrielmendoncanf@gmail.com
+    icon: ✉
+  gitub: 
+    value: /brunoom1
+    icon: 👨‍💻
+  site: 
+    value: https://brunoom1.github.io
+    icon: 
+  leetcode: 
+    value: https://leetcode.com/u/gabrielmendonca
+    icon: 
+
+
