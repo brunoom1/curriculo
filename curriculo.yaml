@@ -78,6 +78,16 @@ work:
         - Construí ambiente de deploy e testes baseado em pipelines com jenkins
         - Todo o ambiente de produção estava baseado em servidor baremetal.
 
+    - company: FingerPrint Digital  
+      state: SP
+      yearInit: 2019
+      yearFinish: 2020
+      positionHeld: Desenvolvedor Fullstack
+      experienceTopics:
+        - Desenvolvi com php5 software de gestão financeira.
+        - O sistema era baseado no padrão RESTful desenvolvida com PHP e Falcon LIB
+        - No frontend NodeJS + AdonisJS e Vuejs.
+
 contacts:
   cellphone:
     - number: (11) 9.5152-6077
