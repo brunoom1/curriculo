@@ -15,7 +15,7 @@ graduation:
 
 areasOfKnowledges: 
   - category: infra
-    areas: [ "GIT", "Docker", "Nginx", "Apache", "Linux", "Bash" ],
+    areas: [ "GIT", "Docker", "Nginx", "Apache", "Linux", "Bash" ]
   - category: database
     areas: [ "Mysql", "MongoDB", "PostgresSQL" ]
   - category: languages
