@@ -13,6 +13,14 @@ graduation:
     initAt: 2024
     endIn: 2026
 
+areasOfKnowledges: 
+  - category: infra
+    areas: [ "GIT", "Docker", "Nginx", "Apache", "Linux", "Bash" ],
+  - category: database
+    areas: [ "Mysql", "MongoDB", "PostgresSQL" ]
+  - category: languages
+    areas: [ "PHP", "Python", "Java", "NodeJs", "Javascript", "Typescript", "Redux/Toolkit", "Zustand", "Nextjs" ]
+
 work: 
   description: Desenvolvedor FullStack - NodeJS/ReactJS
   profissionalResume: > 
