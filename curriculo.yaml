@@ -5,6 +5,14 @@ person:
   aboutResume: Brasileiro casado, 36 anos
   birthDate: 17/06/1988
 
+graduation:
+  - course: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+    instituition: UNIFECAF
+    format: EAD
+    localization: Taboão da Serra - SP
+    initAt: 2024
+    endIn: 2026
+
 work: 
   description: Desenvolvedor FullStack - NodeJS/ReactJS
   profissionalResume: > 
