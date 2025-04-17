@@ -4,121 +4,194 @@ person:
   name: Gabriel Bruno de Olveira Mendonça
   aboutResume: Brasileiro casado, 36 anos
   birthDate: 17/06/1988
-
-graduation:
-  - course: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
-    instituition: UNIFECAF
+person:
+  name: Gabriel Bruno de Oliveira Mendonça
+  title: Desenvolvedor Full Stack - Node.js + React.js
+  contact:
+    cell_whatsapp: "(11) 9 5152-6077"
+    cell_recado: "(11) 9 5498-7213"
+    linkedin: in/gabrielmendonca
+    gmail: gabrielmendoncanf@gmail.com
+    github: /brunoom1
+    site: http://gabrielmendonca.com.br
+    leetcode: https://leetcode.com/u/gabrielmendonca/
+  about_me: >
+    Desenvolvedor Full Stack experiente com mais de 15 anos, especializado em Node.js,
+    React.js e PHP. Sólida experiência em projetos complexos, desde o desenvolvimento de
+    plataformas de ensino a distância até sistemas de gestão empresarial. Proficiência
+    em metodologias ágeis e paixão por criar soluções inovadoras. Objetivo: Desenvolver
+    soluções inovadoras e de alto impacto como Desenvolvedor Full Stack, buscando
+    crescimento profissional e aprimoramento técnico.
+  personal_info:
+    age: 35
+    status: Casado
+    location: Taboão da Serra - SP
+    nationality: Brasileiro
+  
+academics:
+  graduation:
+    course: Superior de Tecnologia em Análise e Desenvolvimento de Sistemas
+    institution: UNIFECAF
     format: EAD
-    localization: Taboão da Serra - SP
-    initAt: 2024
-    endIn: 2026
+    location: Taboão da Serra
+    start_year: 2024
+    predicted_end_year: 2026
 
-areasOfKnowledges: 
-  - category: infra
-    areas: [ "GIT", "Docker", "Nginx", "Apache", "Linux", "Bash" ]
-  - category: database
-    areas: [ "Mysql", "MongoDB", "PostgresSQL" ]
-  - category: languages
-    areas: [ "PHP", "Python", "Java", "NodeJs", "Javascript", "Typescript", "Redux/Toolkit", "Zustand", "Nextjs" ]
+skills:
+  front_end:
+    - React.js: Avançado
+    - JavaScript: Avançado
+    - TypeScript: Intermediário
+    - Next.js: Intermediário
+    - Redux Toolkit: Intermediário
+    - Zustand: Intermediário
+  back_end:
+    - Node.js: Avançado
+    - PHP: Avançado
+    - Python: Intermediário
+    - Java: Básico
+    - Go: Básico
+  database:
+    - MySQL: Avançado
+    - MongoDB: Intermediário
+    - PostgreSQL: Intermediário
+  infrastructure:
+    - GIT: Avançado
+    - Docker: Intermediário
+    - Nginx: Intermediário
+    - Apache: Intermediário
+    - Linux: Intermediário
+    - Bash: Intermediário
 
-work: 
-  description: Desenvolvedor FullStack - NodeJS/ReactJS
-  profissionalResume: > 
-    Desenvolvedor Full Stack experiente com 
-    mais de 15 anos, especializado em Node.js, React.js e PHP. 
-    Sólida experiência em projetos complexos, desde o desenvolvimento 
-    de plataformas de ensino a distância até sistemas de gestão 
-    empresarial. Proficiência em metodologias ágeis e paixão por 
-    criar soluções inovadoras.
+work_experience:
+  - company: MAZZATech - SP
+    year: 2024
+    position: Desenvolvedor Front End Sênior
+    description: Alocação na OLOS Tech - Empresa de soluções para empresas de atendimento, chat e ligações (URA). Desenvolvimento de interfaces e soluções, incluindo inteligência no frontend. [cite: 5, 6]
+  - company: OSBR - SP
+    year: 2024
+    position: Desenvolvedor Full Stack
+    description: >
+      Desenvolvimento e implementação de novas funcionalidades em um marketplace de
+      energias renováveis, utilizando Node.js, React.js e Next.js, resultando em um
+      aumento de 15% no número de usuários ativos. Liderança na implementação de
+      novas funcionalidades, como [nome da funcionalidade], que contribuiu para
+      [resultado específico]. Colaboração na arquitetura e desenvolvimento de APIs
+      RESTful com Strapi. Otimização do desempenho da aplicação, reduzindo o tempo
+      de carregamento em 20% e melhorando a legibilidade do código. Trabalho em
+      Proof of Concepts (POCs) para implementação do AUTHO e Centry na aplicação.
+      Auxílio e gerenciamento da adoção de testes no projeto utilizando JEST.
+      Manutenções no ambiente de $Cl/CD$ para configurações de build com
+      variáveis privadas no AZURE.
+    details:
+      - Desenvolvi e implementei novas funcionalidades em um marketplace de energias renováveis, utilizando Node.js, React.js e Next.js, resultando em um aumento de 15% no número de usuários ativos. [cite: 6, 7, 8, 9, 10, 11, 12]
+      - Liderança na implementação de novas funcionalidades, como [nome da funcionalidade], que contribuiu para [resultado específico]. [cite: 7]
+      - Colaboração na arquitetura e desenvolvimento de APIs RESTful com Strapi. [cite: 8]
+      - Otimização do desempenho da aplicação, reduzindo o tempo de carregamento em 20% e melhorando a legibilidade do código. [cite: 9]
+      - Trabalho em Proof of Concepts (POCs) para implementação do AUTHO e Centry na aplicação. [cite: 10]
+      - Auxílio e gerenciamento da adoção de testes no projeto utilizando JEST. [cite: 11]
+      - Manutenções no ambiente de $Cl/CD$ para configurações de build com variáveis privadas no AZURE. [cite: 12]
+  - company: Samcorp Solutions - SP
+    year: 2023
+    position: Desenvolvedor Full Stack
+    description: >
+      Trabalho no desenvolvimento de interfaces utilizando React.js + Zustand.
+      Implementação de funcionalidades na API utilizando PHP 8 com framework próprio
+      da empresa. Criação de microsserviço em Go Lang para atualização de tokens
+      no OKTA. Participação em maratona para desenvolver um marketplace para
+      venda e exposição dos produtos da Cargill, atuando como desenvolvedor e na
+      concepção do projeto. A equipe conquistou o segundo lugar.
+    details:
+      - Trabalhei no desenvolvimento de interfaces utilizando React.js + Zustand. [cite: 13, 14, 15, 16, 17]
+      - Implementei funcionalidades na API utilizando PHP 8 com framework próprio da empresa. [cite: 14]
+      - Criei microsserviço em Go Lang para atualização de tokens no OKTA. [cite: 15]
+      - Participação em maratona para desenvolver um marketplace para venda e exposição dos produtos da Cargill, atuando como desenvolvedor e na concepção do projeto. [cite: 16]
+      - A equipe conquistou o segundo lugar. [cite: 17]
+  - company: Agência MOP - SP
+    years: 2020/2023
+    position: Desenvolvedor Full Stack
+    description: >
+      Atualização de sites desenvolvidos em WordPress + Elementor para Next.js com
+      WordPress REST e Next.js. A migração resultou em melhorias de performance de
+      90%. Adoção do GIT em 100% dos projetos. Criação de pipelines com Google
+      Actions para deploys de todos os projetos de sites. Desenvolvimento de
+      aplicação centralizada de metrificação de leads e campanhas relacionadas à
+      venda imobiliária. Integração com Facebook, WhatsApp, Google e CRMs para
+      centralização das campanhas e métricas de leads utilizando RabbitMQ
+      (hospedado), Docker para conteinerização e Node.js para criação dos serviços
+      de busca de dados nas plataformas.  Utilização de banco de dados relacional
+      para gerenciamento dos dados. Construção de API RESTful para comunicação
+      dos serviços e frontend, com sistema de permissões de acesso. Construção
+      de ambiente de deploy e testes baseado em pipelines com Jenkins.  O
+      Ambiente de produção baseado em servidor bare metal.
+    details:
+      - Atualização de sites desenvolvidos em WordPress + Elementor para Next.js com WordPress REST e Next.js. A migração resultou em melhorias de performance de 90%. [cite: 17, 18, 19, 20, 21, 22, 23, 24, 25]
+      - Adoção do GIT em 100% dos projetos. [cite: 18]
+      - Criação de pipelines com Google Actions para deploys de todos os projetos de sites. [cite: 19]
+      - Desenvolvimento de aplicação centralizada de metrificação de leads e campanhas relacionadas à venda imobiliária. [cite: 20]
+      - Integração com Facebook, WhatsApp, Google e CRMs para centralização das campanhas e métricas de leads utilizando RabbitMQ (hospedado), Docker para conteinerização e Node.js para criação dos serviços de busca de dados nas plataformas. [cite: 21]
+      - Utilização de banco de dados relacional para gerenciamento dos dados. [cite: 22]
+      - Construção de API RESTful para comunicação dos serviços e frontend, com sistema de permissões de acesso. [cite: 23]
+      - Construção de ambiente de deploy e testes baseado em pipelines com Jenkins. [cite: 24]
+      - Ambiente de produção baseado em servidor bare metal. [cite: 25]
+  - company: FingerPrint Digital - Alphaville - SP
+    years: 2019/2020
+    position: Desenvolvedor Full Stack
+    description: >
+      Desenvolvimento em PHP 5 de software de gestão financeira baseado no padrão
+      RESTful com PHP e Falcon LIB. Frontend em Node.js + AdonisJS e Vue.js. [cite: 25, 26]
+  - company: Prefeitura Municipal de Rio das Ostras
+    years: 2017/2019
+    position: Desenvolvedor Full Stack
+    description: >
+      Desenvolvimento de API em PHP para sistemas legados. Sincronização de várias
+      bases de dados através de API. Sistema em PHP e JavaScript para permitir
+      abertura de solicitações entre departamentos da prefeitura. Gestão de equipe. [cite: 26, 27, 28]
+  - company: In9Web - Rio de Janeiro
+    years: 2015/2017
+    position: Desenvolvedor Full Stack
+    description: >
+      Criação de sites institucionais.  Desenvolvimento de CMS próprio para sites
+      dos clientes. Desenvolvimento de aplicativos mobile com Apache Cordova.
+      Gerenciamento das hospedagens dos clientes. [cite: 28, 29, 30]
+  - company: Prefeitura Municipal de Macaé
+    years: 2014/2015
+    position: Desenvolvedor Frontend
+    description: >
+      Aplicação de melhorias no site da prefeitura. Desenvolvimento de frontend
+      com PHP, HTML, JavaScript e CSS.  Adaptação de responsividade com
+      Bootstrap 4. Adoção de melhores práticas para site acessível com foco em
+      Dosvox. [cite: 30, 31, 32]
+  - company: DS Marketing Store - Macaé - RJ
+    years: 2011/2014
+    position: Desenvolvedor Full Stack
+    description: >
+      Desenvolvimento de sites institucionais.  Desenvolvimento e manutenção de
+      sistema de gestão de chamados em PHP 4.  Desenvolvimento de animações em
+      Adobe Flash. Desenvolvimento de aplicações em Flash para sites. [cite: 32, 33, 34]
+  - company: Agência Tal - Rio das Ostras
+    years: 2010/2011
+    position: Desenvolvedor Full Stack
+    description: Desenvolvimento de sistema para gestão de gráfica em PHP 4. Desenvolvimento de sites com tabelas. [cite: 34, 35]
+  - company: Fabrick Solutions - Macaé - RJ
+    years: 2008/2010
+    position: Webmaster
+    description: Desenvolvimento de templates para WordPress.   Montagem de layout tableless a partir de PSD (Photoshop). [cite: 35, 36]
+  - company: Gráfica Poema - Rio das Ostras - RJ
+    year: 2007
+    position: Webmaster
+    description: Desenvolvimento de sites com tabelas e PHP.  Desenvolvimento de sistemas para automação de tarefas na gráfica. [cite: 36, 37]
+  - company: GrupoN - Macaé - RJ
+    year: 2006
+    position: Webmaster
+    description: Desenvolvimento de sites com tabelas e PHP.  Desenvolvimento de sistemas para automação de tarefas na gráfica. [cite: 37, 38]
+  - company: Autônomo - Rio das Ostras - RJ
+    year: 2005
+    position: Webmaster
+    description: Desenvolvimento de portal para cobertura de festas em PHP 4. [cite: 38, 39]
 
-  profissionalExperience:
-    - company: OSBR
-      yearInit: 2024
-      yearFinish: 2024
-      state: SP
-      positionHeld: Desenvolvedor Fullstack
-      experienceTopics: 
-        - Desenvolvi e implementei novas funcionalidades em um marketplace de energias renováveis, utilizando NodeJs, ReactJs, NextJsi.
-        - Colaborei na arquitetura e desenvolvimento de API’s RESTful com Strapi.
-        - Contribui para a otimização do desempenho da aplicação, reduzindo o tempo de carregamento da página e melhorando a legibilidade do código.
-        - Trabalhei em POC’s para implementação do AUTH0 e Centry na aplicação. 
-        - Auxiliei e gerenciei a adoção de testes no projeto utilizando JEST
-        - Realizei manutenções no ambiente de CI/CD para configurações de build com variáveis privadas no AZURE
-
-    - company: Samcorp Solutions
-      yearInit: 2023
-      yearFinish: 2023
-      state: SC
-      positionHeld: Desenvolvedor Fullstack
-      experienceTopics: 
-        - Trabalhei no desenvolvimento e interfaces utilizando ReactJS + Zustand. 
-        - Implementei funcionalidades na API utilizando PHP 8 com framework próprio da empresa.
-        - Criei micro serviço em GO Lang para atualização de tokens no OKTA
-        - 'Participei de uma maratona para desenvolver um projeto onde atuei como DEV e também em toda a 
-          concepção de um marketplace para venda e exposição dos produtos da Cargill. 
-          Participaram times de toda américa latina. Conseguimos o segundo lugar com o projeto.'
-
-    - company: Agência MOP
-      yearInit: 2020
-      yearFinish: 2023
-      state: SP
-      positionHeld: Desenvolvedor Fullstack / TechLead
-      experienceTopics: 
-        - 'Atualização dos sites antes desenvolvidos em wordpress + elemento para nextjs com wordpress rest e NextJs. 
-          O next trouxe para os sites diversas otimizações no frontend além de cache para os recursos de API que pouco eram atualizados. 
-          Os sites tiveram uma melhora de performance de 90% com a mudança de tecnologia.' 
-        - Utilização de GIT em 100% dos projetos, antes os projetos não eram versionados.
-        - Criei pipelines com google actions para deploys de todos os projetos de sites, antes, os sites eram atualizados com FTP.
-        - Desenvolvi toda uma aplicação centralizada de metrificação de leads e campanhas relacionadas à venda imobiliária.  
-        - 'Realizei a integração  com facebook, whatsapp, google e CRM’s para centralização das campanhas e metricas de leads utilizando 
-          RabbitMQ (hospedado), docker para conteinerização, nodejs para criação dos serviços de busca de dados nas plataformas do google, 
-          facebook e CRM’s.'
-        - Utilizei banco de dados relacional para gerenciamento dos dados. 
-        - Construí API restfull para comunicação dos serviços e frontend. Cada serviço tinha seu próprio usuário para acesso com permissões de serviços
-        - Construí ambiente de deploy e testes baseado em pipelines com jenkins
-        - Todo o ambiente de produção estava baseado em servidor baremetal.
-
-    - company: FingerPrint Digital  
-      state: SP
-      yearInit: 2019
-      yearFinish: 2020
-      positionHeld: Desenvolvedor Fullstack
-      experienceTopics:
-        - Desenvolvi com php5 software de gestão financeira.
-        - O sistema era baseado no padrão RESTful desenvolvida com PHP e Falcon LIB
-        - No frontend NodeJS + AdonisJS e Vuejs.
-
-contacts:
-  cellphone:
-    - number: (11) 9.5152-6077
-      icon: 📱
-      social:
-        - whatsapp
-        - telegram
-  social:
-    - name: "Linkedin" 
-      value: /in/gabrielmendonca
-      link: https://www.linkedin.com/in/gabrielmendonca
-      icon: 🔗
-    
-    - name: "Gmail" 
-      value: gabrielmendoncanf@gmail.com
-      link: mailto:gabrielmendoncanf@gmail.com
-      icon: ✉
-    
-    - name: "Gitub" 
-      value: /brunoom1
-      link: https://github.com/brunoom1
-      icon: 👨‍💻
-    
-    - name: "Site" 
-      value: https://brunoom1.github.io
-      link: https://brunoom1.github.io
-      icon: 
-    
-    - name: "Leetcode" 
-      value: /u/gabrielmendonca
-      link: https://leetcode.com/u/gabrielmendonca
-      icon: 
-
+courses:
+  - course: Bootcamp Rocketseat
+    institution: Rocketseat
+    content: HTML, CSS, JavaScript, Node.js [cite: 39]
 
