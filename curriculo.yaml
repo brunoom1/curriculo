@@ -4,8 +4,6 @@ person:
   name: Gabriel Bruno de Olveira Mendonça
   aboutResume: Brasileiro casado, 36 anos
   birthDate: 17/06/1988
-person:
-  name: Gabriel Bruno de Oliveira Mendonça
   title: Desenvolvedor Full Stack - Node.js + React.js
   contact:
     cell_whatsapp: "(11) 9 5152-6077"
