@@ -1,5 +1,4 @@
 version: 1.0
-
 person: 
   name: Gabriel Bruno de Olveira Mendonça
   aboutResume: Brasileiro casado, 36 anos
@@ -192,4 +191,3 @@ courses:
   - course: Bootcamp Rocketseat
     institution: Rocketseat
     content: HTML, CSS, JavaScript, Node.js [cite: 39]
-
